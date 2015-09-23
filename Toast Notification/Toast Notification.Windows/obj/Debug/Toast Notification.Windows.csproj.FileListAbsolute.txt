@@ -1,0 +1,38 @@
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.Windows\bin\Debug\App.xbf
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.Windows\bin\Debug\MainPage.xbf
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.Windows\bin\Debug\Toast Notification.Windows.xr.xml
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.Windows\bin\Debug\Toast Notification.Windows.exe
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.Windows\bin\Debug\Toast Notification.Windows.pdb
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.Windows\bin\Debug\resources.pri
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.Windows\bin\Debug\AppxManifest.xml
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.Windows\bin\Debug\Toast Notification.Windows.build.appxrecipe
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.Windows\bin\Debug\NotificationsExtensions.winmd
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.Windows\bin\Debug\NotificationsExtensions.pdb
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.Windows\bin\Debug\NotificationsExtensions.xml
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.Windows\bin\Debug\NotificationsExtensions.pri
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.Windows\obj\Debug\Toast Notification.Windows.csprojResolveAssemblyReference.cache
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.Windows\obj\Debug\App.g.i.cs
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.Windows\obj\Debug\App.g.cs
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.Windows\obj\Debug\MainPage.g.i.cs
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.Windows\obj\Debug\MainPage.g.cs
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.Windows\obj\Debug\XamlTypeInfo.g.cs
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.Windows\obj\Debug\App.xaml
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.Windows\obj\Debug\App.xbf
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.Windows\obj\Debug\XamlSaveStateFile.xml
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.Windows\obj\Debug\MainPage.xaml
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.Windows\obj\Debug\MainPage.xbf
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.Windows\obj\Debug\Toast Notification.Windows.exe
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.Windows\obj\Debug\Toast Notification.Windows.pdb
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.Windows\obj\Debug\priconfig.xml
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.Windows\obj\Debug\priconfig.xml.intermediate
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.Windows\obj\Debug\layout.resfiles
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.Windows\obj\Debug\layout.resfiles.intermediate
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.Windows\obj\Debug\resources.resfiles
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.Windows\obj\Debug\resources.resfiles.intermediate
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.Windows\obj\Debug\pri.resfiles
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.Windows\obj\Debug\pri.resfiles.intermediate
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.Windows\obj\Debug\qualifiers.txt
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.Windows\obj\Debug\qualifiers.txt.intermediate
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.Windows\obj\Debug\NotificationsExtensions.pri.xml
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.Windows\obj\Debug\ProjectArchitectures.txt

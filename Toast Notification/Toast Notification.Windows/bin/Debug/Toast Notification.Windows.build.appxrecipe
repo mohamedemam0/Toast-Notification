@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>EMAM</Machine>
+    <WindowsUser>Mohammed</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>e2b3531e-aa68-436b-8171-77ce0c750926</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.Windows\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.Windows\bin\Debug\Toast Notification.Windows.exe">
+      <PackagePath>Toast Notification.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\packages\NotificationsExtensions.UniversalApps.1.0.3\lib\netcore451\NotificationsExtensions.winmd">
+      <PackagePath>NotificationsExtensions.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.Windows\bin\Debug\Toast Notification.Windows.xr.xml">
+      <PackagePath>Toast Notification.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

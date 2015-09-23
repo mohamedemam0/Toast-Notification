@@ -1,0 +1,38 @@
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.WindowsPhone\bin\Debug\App.xbf
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.WindowsPhone\bin\Debug\MainPage.xbf
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.WindowsPhone\bin\Debug\Toast Notification.WindowsPhone.xr.xml
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.WindowsPhone\bin\Debug\Toast Notification.WindowsPhone.exe
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.WindowsPhone\bin\Debug\Toast Notification.WindowsPhone.pdb
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.WindowsPhone\bin\Debug\resources.pri
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.WindowsPhone\bin\Debug\AppxManifest.xml
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.WindowsPhone\bin\Debug\Toast Notification.WindowsPhone.build.appxrecipe
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.WindowsPhone\bin\Debug\NotificationsExtensions.winmd
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.WindowsPhone\bin\Debug\NotificationsExtensions.pdb
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.WindowsPhone\bin\Debug\NotificationsExtensions.xml
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.WindowsPhone\bin\Debug\NotificationsExtensions.pri
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.WindowsPhone\obj\Debug\Toast Notification.WindowsPhone.csprojResolveAssemblyReference.cache
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.WindowsPhone\obj\Debug\App.g.i.cs
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.WindowsPhone\obj\Debug\App.g.cs
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.WindowsPhone\obj\Debug\MainPage.g.i.cs
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.WindowsPhone\obj\Debug\MainPage.g.cs
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.WindowsPhone\obj\Debug\App.xaml
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.WindowsPhone\obj\Debug\MainPage.xaml
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.WindowsPhone\obj\Debug\App.xbf
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.WindowsPhone\obj\Debug\MainPage.xbf
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.WindowsPhone\obj\Debug\Toast Notification.WindowsPhone.exe
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.WindowsPhone\obj\Debug\Toast Notification.WindowsPhone.pdb
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.WindowsPhone\obj\Debug\priconfig.xml
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.WindowsPhone\obj\Debug\layout.resfiles
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.WindowsPhone\obj\Debug\resources.resfiles
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.WindowsPhone\obj\Debug\pri.resfiles
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.WindowsPhone\obj\Debug\qualifiers.txt
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.WindowsPhone\obj\Debug\NotificationsExtensions.pri.xml
+c:\users\mohammed\documents\visual studio 2013\Projects\Toast Notification\Toast Notification\Toast Notification.WindowsPhone\obj\Debug\ProjectArchitectures.txt
